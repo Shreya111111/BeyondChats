@@ -23,7 +23,7 @@ A web application that allows students to interact with PDFs (like NCERT Class X
 
 - **Node.js** (v18+ recommended)  
 - **npm** (comes with Node.js)  
-- Gemini API key (for quiz generation & AI features)  
+- Gemini LLM API USED (for quiz generation & AI features)  
 
 ---
 
