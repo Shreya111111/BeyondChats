@@ -122,7 +122,7 @@ npm run dev
    - Verifiable commits to track development progress  
 
 2. **Live Demo**
-   - Provide a URL where the implementation can be tested  
+   - https://beyondchats-g0cpb8h2i-shreyas-projects-ad80b7e8.vercel.app/
 
 ---
 
@@ -133,8 +133,6 @@ npm run dev
     /pdfs             # Seeded PDFs
 /src
     /components       # React components (PDF viewer, chat UI, quiz engine)
-    /pages            # Next.js pages
-    /utils            # Utility functions (PDF parsing, quiz generation)
 .env.local
 package.json
 README.md
