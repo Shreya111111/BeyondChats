@@ -32,8 +32,8 @@ A web application that allows students to interact with PDFs (like NCERT Class X
 1. **Clone the repository**  
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Shreya111111/BeyondChats/
+cd BeyondChats
 ```
 
 2. **Install dependencies**  
@@ -101,9 +101,6 @@ npm run dev
 
 1. **Chat UI (ChatGPT-inspired)**
    - Acts as a virtual teacher / teaching companion  
-   - Left drawer: list of chats  
-   - Main chat window + input box at bottom  
-   - New chat creation and chat switching  
    - Clean, mobile-responsive design  
 
 2. **RAG (Retrieval-Augmented Generation) Answers with Citations**
