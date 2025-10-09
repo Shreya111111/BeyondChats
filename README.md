@@ -68,8 +68,7 @@ npm run dev
 
 ---
 
-## Features
-
+## Features Implemented in this project
 ### Must-Have Features
 
 1. **Source Selector**
