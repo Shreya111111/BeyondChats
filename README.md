@@ -138,9 +138,9 @@ README.md
 
 ## LLM & AI Tools
 
-- **Gemini API**: for quiz generation, RAG-based answers  
+- **Gemini 2.5 Flash LLM**: for quiz generation, RAG-based answers  
 - **Embedding & Chunking**: for PDF content retrieval and citation  
-- Optional: **YouTube API** for video recommendations  
+- **YouTube API** for video recommendations  
 
 ---
 
